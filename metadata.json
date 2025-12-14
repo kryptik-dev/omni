@@ -1,0 +1,9 @@
+{
+  "name": "Omni",
+  "description": "A comprehensive AI voice assistant capable of real-time conversation, image generation, image editing, web search, and vision analysis using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
